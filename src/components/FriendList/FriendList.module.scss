@@ -1,0 +1,11 @@
+.friend {
+	margin-top: 20px;
+	display: flex;
+	justify-content: center;
+	gap: 7px;
+	li {
+		border: 1px solid #000;
+		border-radius: 5px;
+		padding: 7px;
+	}
+}

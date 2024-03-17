@@ -1,0 +1,15 @@
+.friend-item {
+	img {
+		margin-bottom: 5px;
+	}
+	p:last-child {
+		margin-top: 3px;
+		font-size: 12px;
+	}
+}
+.is-online {
+	color: #0aa13d;
+}
+.is-offline {
+	color: #c44105;
+}
